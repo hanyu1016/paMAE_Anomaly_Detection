@@ -1,0 +1,1 @@
+python main.py --norm_type cbatch --mem_dim 32 --gpu 0 --topk 32 --no_lpips_loss --batch_size=16 --num_cls 1 --subset wood  --percent_defect -1 --num_workers 0 --n_downsample 5 --z_dim 256 --model_save_step 1000 --num_iterations 5000

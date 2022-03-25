@@ -1,0 +1,21 @@
+#--find-links https://download.pytorch.org/whl/torch_stable.html
+#torch==1.4.0+cpu
+torchvision==0.5.0
+scipy==1.5.4
+opencv-python==4.5.5.62
+h5py==2.10.0
+matplotlib==3.3.4
+colorama==0.4.4
+scikit-image==0.16.2
+scikit-learn==0.24.2
+pandas==1.1.5
+lmdb>=0.90
+dill==0.3.4
+tqdm==4.62.3
+IPython==7.16.1
+imutils==0.5.4
+#tensorflow==2.2.0
+
+#conda install scikit-learn
+#conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch
+#pip install --upgrade tensorflow-gpu
